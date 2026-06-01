@@ -1,5 +1,5 @@
 <h1 align="center">Hi there, I'm Rabeez 👋</h1>
-<h3 align="center">Motivated Computer Science Undergraduate | Full-Stack Developer & Founder</h3>
+<h3 align="center">Motivated Computer Science Undergraduate | Full-Stack Developer & DevOps Engineer</h3>
 
 <p align="center">
   <a href="https://linkedin.com/in/mohamedrabeez19" target="_blank">
