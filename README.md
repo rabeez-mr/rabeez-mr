@@ -54,16 +54,39 @@ Experienced in designing and deploying CI/CD pipelines, containerized applicatio
 
 ---
 
-### 🛒 The Great Outdoors (E-Commerce Platform)
-- MERN stack e-commerce system
-- Admin dashboard for inventory & orders
-- MongoDB integration + authentication system
+### 🛒 E-Commerce Platform
+The Great Outdoors E-commerce Platform – Full-Stack Developer
+- Built a MERN-based e-commerce system with real-time product management.
+- Developed an admin dashboard for analytics and inventory tracking.
+- Automated version control workflows with Git/GitHub (95% documentation accuracy).
 
 ---
 
-### 🔐 Security & Data Projects
-- Web vulnerability assessment using OWASP tools
-- Tourism analytics using survey data (150+ responses)
+### 📱 Application Development
+The Coffee Shop Mobile Application – UI/UX Designer & Android Developer
+- Designed and developed an Android app using Java and SQLite for menu browsing and order management.
+- Improved order processing time by 20% through optimized workflows.
+- Integrated RESTful APIs for promotional content, achieving a 4.6/5 usability rating.
+
+---
+
+### 🔐 Data & Analytics
+Discovering Sri Lanka: Traveler Perspectives Analysis – Data Analyst
+- Conducted survey research with 150+ respondents on travel behaviors and demographics.
+- Performed statistical analysis using Chi-Square tests (90% confidence level).
+- Authored a 20+ page report with actionable insights for tourism stakeholders.
+
+Sales Performance Analytics – Data Analyst
+-Built a Power BI dashboard analyzing 5,000+ records to identify key trends.
+-Cleaned and prepared data using MS Office tools ensuring 95% accuracy before visualization.
+
+---
+
+### 🌐 Web Development
+SLK Travel E-commerce Platform – Web Developer
+- Created a responsive travel booking site using HTML, CSS, and JavaScript.
+- Built backend functionality with PHP and MySQL for user registration and bookings.
+- Optimized page load speeds by 25% through clean code architecture.
 
 ---
 
