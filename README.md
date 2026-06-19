@@ -45,7 +45,7 @@ Experienced in designing and deploying CI/CD pipelines, containerized applicatio
 
 ## 📌 Featured Projects
 
-### 🚀 DevOps Pipeline – Azure Deployment
+### 🚀 Full DevOps Pipeline Deployment on Azure (Self Project)
 - Built a full CI/CD pipeline for MERN app
 - Dockerized frontend & backend
 - Automated deployment using GitHub Actions
@@ -77,8 +77,8 @@ Discovering Sri Lanka: Traveler Perspectives Analysis – Data Analyst
 - Authored a 20+ page report with actionable insights for tourism stakeholders.
 
 Sales Performance Analytics – Data Analyst
--Built a Power BI dashboard analyzing 5,000+ records to identify key trends.
--Cleaned and prepared data using MS Office tools ensuring 95% accuracy before visualization.
+- Built a Power BI dashboard analyzing 5,000+ records to identify key trends.
+- Cleaned and prepared data using MS Office tools ensuring 95% accuracy before visualization.
 
 ---
 
